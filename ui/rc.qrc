@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="root">
+    <file>images/audio.jpg</file>
+    <file>images/ic_account_box_black_48dp.png</file>
+    <file>images/ic_add_box_black_48dp.png</file>
+    <file>images/ic_add_box_black_48dp (1).png</file>
+    <file>images/ic_add_circle_black_48dp.png</file>
+    <file>images/ic_add_circle_black_48dp (1).png</file>
+    <file>images/ic_add_circle_grey600_48dp.png</file>
+    <file>images/ic_add_circle_grey600_48dp (1).png</file>
+    <file>images/ic_check_box_black_18dp.png</file>
+    <file>images/ic_check_box_black_18dp (1).png</file>
+    <file>images/ic_dvr_black_36dp.png</file>
+    <file>images/ic_dvr_black_36dp (1).png</file>
+    <file>images/ic_error_red_48dp.png</file>
+    <file>images/ic_error_red_48dp (1).png</file>
+    <file>images/ic_pause_black_18dp.png</file>
+    <file>images/ic_people_black_36dp.png</file>
+    <file>images/ic_people_black_36dp (1).png</file>
+    <file>images/ic_play_circle_fill_black_24dp.png</file>
+    <file>images/ic_play_circle_fill_black_24dp (1).png</file>
+    <file>images/ic_playlist_add_black_48dp.png</file>
+    <file>images/ic_playlist_add_black_48dp (1).png</file>
+    <file>images/ic_refresh_black_24dp.png</file>
+    <file>images/ic_refresh_black_24dp (1).png</file>
+    <file>images/ic_remove_circle_black_48dp.png</file>
+    <file>images/ic_remove_circle_black_48dp (1).png</file>
+    <file>images/ic_reply_black_48dp.png</file>
+    <file>images/ic_reply_black_48dp (1).png</file>
+    <file>images/ic_stop_black_18dp.png</file>
+    <file>images/ic_storage_black_.png</file>
+    <file>images/ic_storage_black_48dp.png</file>
+    <file>images/ic_storage_black_48dp (1).png</file>
+    <file>images/ic_swap_horiz_black_48dp.png</file>
+    <file>images/ic_sync_green_18dp.png</file>
+    <file>images/ic_sync_green_18dp (1).png</file>
+    <file>images/ic_video_collection_black_48dp.png</file>
+    <file>images/ic_vpn_key_black_18dp.png</file>
+  </qresource>
+</RCC>
